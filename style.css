@@ -12,12 +12,12 @@ canvas {
 }
 
 @font-face {
-  font-family: "PressStart2p";
-  src: url("../fonts/PressStart2P-Regular.ttf");
+  font-family: PressStart2p;
+  src: url("/fonts/PressStart2P-Regular.ttf");
 }
 
 .fontPreload {
-  font-family: "PressStart2p";
+  font-family: PressStart2p;
   position: absolute;
   left: -100px;
 }
