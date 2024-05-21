@@ -13,7 +13,7 @@ canvas {
 
 @font-face {
   font-family: "PressStart2p";
-  src: url('https://itstobal.github.io/fonts/PressStart2P-Regular.ttf');
+  src: url("https://itstobal.github.io/fonts/PressStart2P-Regular.ttf");
 }
 
 .fontPreload {
